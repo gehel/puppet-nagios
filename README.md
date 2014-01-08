@@ -110,3 +110,7 @@ For detailed info about the logic and usage patterns of Example42 modules check 
 
 
 [![Build Status](https://travis-ci.org/example42/puppet-nagios.png?branch=master)](https://travis-ci.org/example42/puppet-nagios)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gehel/puppet-nagios/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
